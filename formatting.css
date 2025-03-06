@@ -1,5 +1,5 @@
 .essayminimum {
-  min-length: 200;
+  min-length: "200";
 }
 
 .shortanswertolong {
