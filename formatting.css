@@ -5,7 +5,6 @@
 .shortanswertolong {
   height: 100px;
   width: 900px;
-  resize: both;
   display: inline-block;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
