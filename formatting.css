@@ -6,4 +6,5 @@
   height: 100px;
   width: 900px;
   resize: both;
+  word-break: break-word;
 }
