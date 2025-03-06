@@ -6,6 +6,6 @@
   height: 100px;
   width: 900px;
   display: inline-block;
-  white-space: normal;
+  white-space: wrap;
   overflow-wrap: break-word;
 }
