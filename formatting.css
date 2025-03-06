@@ -1,3 +1,9 @@
 .essayminimum {
   min-length: 200;
 }
+
+.shortanswertolong {
+  height: 100px;
+  width: 900px;
+  resize: both;
+}
