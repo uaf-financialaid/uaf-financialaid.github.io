@@ -1,5 +1,6 @@
 .essayminimum {
-  min-length: "200";
+  minlength: "200";
+  data-rule-minlength="200";
 }
 
 .shortanswertolong {
